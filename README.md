@@ -119,11 +119,3 @@ Meta has adopted a Code of Conduct that we expect project participants to adhere
 Read our [**Contributing Guide**](./CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to JSX.
 
 
-License
--------
-
-Copyright (c) 2014 - present, Meta Platform, Inc.
-All rights reserved.
-
-This work is licensed under a [Creative Commons Attribution 4.0
-International License](http://creativecommons.org/licenses/by/4.0/).
